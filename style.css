@@ -1,0 +1,14 @@
+body {
+  background-color: orange;
+  color: pink;
+  font-size: xx-large;
+}
+h1 {
+  color: green;
+}
+.main-header {
+  color: aqua;
+}
+#id {
+  color: yellow;
+}
