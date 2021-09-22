@@ -1,11 +1,10 @@
 body {
-  background-color: orange;
+  background: linear-gradient(90deg, pink, yellow);
   color: pink;
   font-size: xx-large;
+  font-family: "Open Sans Condensed", sans-serif;
 }
-h1 {
-  color: green;
-}
+
 .main-header {
   color: aqua;
   text-align: center;
@@ -18,5 +17,18 @@ h1 {
   text-align: center;
   background-color: green;
 }
-.Einstein {
+#Einstein {
+  color: red;
+}
+.Gore {
+  width: 75%;
+}
+#Gore {
+  color: red;
+}
+#Consort {
+  color: red;
+}
+.Consort {
+  width: 150px;
 }
