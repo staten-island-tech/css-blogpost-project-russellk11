@@ -6,7 +6,7 @@ body {
 }
 
 .main-header {
-  color: aqua;
+  color: purple;
   text-align: center;
   margin: 60px;
 }
@@ -17,18 +17,22 @@ body {
   text-align: center;
   background-color: green;
 }
+
+.Einstein {
+  width: 600px;
+}
 #Einstein {
-  color: red;
+  color: aqua;
 }
 .Gore {
-  width: 75%;
+  width: 600px;
 }
 #Gore {
-  color: red;
+  color: rgb(255, 0, 0);
 }
 #Consort {
-  color: red;
+  color: yellow;
 }
 .Consort {
-  width: 150px;
+  width: 600px;
 }
