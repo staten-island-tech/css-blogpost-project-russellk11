@@ -18,21 +18,16 @@ body {
   background-color: green;
 }
 
-.Einstein {
+.Alberts {
   width: 600px;
 }
 #Einstein {
   color: aqua;
 }
-.Gore {
-  width: 600px;
-}
+
 #Gore {
   color: rgb(255, 0, 0);
 }
 #Consort {
   color: yellow;
-}
-.Consort {
-  width: 600px;
-}
+
